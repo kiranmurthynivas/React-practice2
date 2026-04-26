@@ -1,0 +1,7 @@
+.comment {
+    border: 1px solid pink;
+    border-radius: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+}
